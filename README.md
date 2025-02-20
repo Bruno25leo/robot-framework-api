@@ -84,7 +84,7 @@ Após esse comando, serão gerados os arquivos do Allure Report, e o seguinte co
    ```
 Dessa forma é possível verificar detalhes dos testes que foram executados.
 
-_Para mais exemplos de execução, segue o link da documentação do Robot Framework [Documentation](https://example.com)_
+_Para mais exemplos de execução, segue o link da documentação do Robot Framework [Documentação](https://docs.robotframework.org/)_
 
 <p align="right">(<a href="#readme-top">voltar ao início</a>)</p>
 
